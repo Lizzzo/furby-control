@@ -1,4 +1,4 @@
-# This code is based off of the sample code made by Alex Wilkinson for the 'Furlexa' Project, created by user Zach on howchoo.com
+# This code is based off of the sample code made by Alex Wilkinson for the 'Furlexa' Project, created by user Zach on howchoo.com It will be edited to move as we want it to as the project developes. 
 
 # Import required modules
 
@@ -31,7 +31,7 @@ GPIO.output(13, GPIO.HIGH)
 
 # Wait 5 seconds
 
-time.sleep(3)
+time.sleep(5)
 
 # Reset all the GPIO pins by setting them to LOW
 
